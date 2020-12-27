@@ -2,7 +2,7 @@
 
 Learning CSS and HTML project. Fully responsive.
 
-https://omnifood-eeb6b.web.app/
+Demo: https://omnifood-eeb6b.web.app/
 
 <br/>
 
