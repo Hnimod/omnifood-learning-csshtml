@@ -1,6 +1,6 @@
 # Omnifood
 
-Learning CSS and HtML project. Fully responsive.
+Learning CSS and HTML project. Fully responsive.
 
 https://omnifood-eeb6b.web.app/
 
